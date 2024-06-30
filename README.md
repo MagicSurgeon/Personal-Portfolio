@@ -1,0 +1,1 @@
+Discover MagicSurgeon's dynamic and visually striking portfolio website, expertly designed using JavaScript, CSS, jQuery, PHP, SCSS, and HTML, showcasing a range of talents and projects.
